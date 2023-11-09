@@ -142,3 +142,26 @@ button{
     font-size: 18px;
     background-color: #C24914;
 }
+.start-growing h1{
+    position: relative;
+    left: 260px;
+    font-size: 32pt;
+    top: 100px;
+}
+.start-growing p{
+    position: relative;
+    left: 200px;
+    top: 95px;
+    color: #8a8787;
+}
+.start-growing img{
+    position: absolute;
+}
+.start-growing button{
+    position: relative;
+    background-color: #FC8621;
+    color: white;
+    border-radius: 5px;
+    left: 350px;
+    top: 100px;
+}
