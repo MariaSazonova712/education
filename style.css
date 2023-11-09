@@ -41,9 +41,10 @@ button{
     background-color: #C24914;
     border-radius: 10px;
     border-color: #C24914;
-   }
-   .button{
-       position:relative;
-       text-align: right;
-       top: -35px;
-   }
+    color: white;
+}
+.button{
+    position:relative;
+    text-align: right;
+    top: -35px;
+}
