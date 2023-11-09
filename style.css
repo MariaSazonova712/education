@@ -48,3 +48,31 @@ button{
     text-align: right;
     top: -35px;
 }
+.Info-block-one h1{
+    margin: 0;
+    margin-top:76px;
+    margin-left: 250px;
+}
+.Info-block-one p{
+    color: #8a8787;
+font-size: 20px;
+margin: 0;
+margin-left: 250px;
+}
+.button button{
+    position: relative;
+    width: 161px;
+    height: 40px;
+    color: white;
+    background-color: #682C0E;
+    border-radius: 10px;
+    border-color: #C24914;
+    margin-top:76px;
+    right: 290px;
+}
+.photo{
+    position: relative;
+    float: right;
+   bottom: 210px;
+}
+
