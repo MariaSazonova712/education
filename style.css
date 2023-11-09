@@ -4,6 +4,7 @@
 body{
     margin: 0 auto;
     height: auto;
+    width: 1280px;
 }
 .container {
     width: 100%;
@@ -51,7 +52,8 @@ button{
 .button{
     position:relative;
     text-align: right;
-    top: -35px;
+    top: -40px;
+    left: 65px;
 }
 .Info-block-one h1{
     margin: 0;
@@ -165,4 +167,53 @@ button{
     left: 350px;
     top: 100px;
     border-color: #FC8621;
+}
+
+footer{
+    position: relative;
+    top: 600px;
+    background-color: #F9E0AE;
+    height: 327px;
+    color: #8191A6;
+}
+footer img{
+    position: relative;
+    top: 100px;
+}
+.footer__left {
+    position: relative;
+    top: 30px;
+    left: 480px;
+    margin-right: 0 auto;
+}
+.footer__left img{
+    position: relative;
+    display: inline-block;
+    margin-left: auto;
+right: 100px;
+top: 45px;
+}
+.footer__center{
+    position: relative;
+    left: 700px;
+    top: 10px;
+}
+.footer__center li{
+    position: relative;
+    left:-15px;
+}
+.contacts{
+    position: relative;
+    left: 1000px;
+    bottom: 100px;
+}
+.contacts li{
+    position: relative;
+    list-style-type: none;
+    left: -40px;
+}
+.contacts p{
+   position: relative;
+   top: 50px;
+   right: 300px;
 }
